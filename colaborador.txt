@@ -1,0 +1,3 @@
+colaborador: Victor Gabriel
+Jogo favorito: Donkey Kong Country 3
+exercício 6 - git em dupla.
